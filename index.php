@@ -93,7 +93,6 @@ END;
 }
 ?>
 
-<!doctype html>
 <html>
   <head>
     <title>YouTube Search</title>
